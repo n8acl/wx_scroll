@@ -1,10 +1,10 @@
 # Weather Scroller
-Scrolling Weather information for the Raspberry Pi Sense-Hat
+Weather Data Scoller for the Raspberry Pi Sense-Hat
 
 ---
 # Description
 
-Here is a fun litle project I put together. I was sitting looking at the LED matrix on my Sense-hat and thought, I should have weather data scroll across there. So that is what I did. 
+Here is a fun litle project I put together. I was sitting looking at the LED matrix on my Sense-hat and thought, "I should have weather data scroll across there". So that is what I did. 
 
 This script will pull local weather data from the OpenWeatherMap API and from the sensors on the Sense-Hat and scrolls the temperatures across the screen.
 
@@ -33,7 +33,8 @@ This bot pulls data from the following locations:
 # Installation/Setup
 
 ### Get OpenWeatherMap API Key
-For this you only need to obtain one API Key, and that is from OpenWeatherMap. To get this key go to [https://openweathermap.org/api](https://openweathermap.org/api). 
+For this you only need to obtain one API Key, and that is from OpenWeatherMap. To get this key go to [https://openweathermap.org/api](https://openweathermap.org/api) and sign up for a free account.
+  - NOTE: This is a free account, but you are limited to 60 calls per minute and 1000 calls per day. 
 
 ### Installing the Script
 
