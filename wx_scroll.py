@@ -114,7 +114,7 @@ try:
             scroll("Outside " + str(temp) + " " + conditions, temp)
             scroll("Inside " + str(sensor_temp), sensor_temp)
 
-        else:
+        if not cfg.use_timer:
 
             if first_run:
                 nextwxcheck = (datetime.now() + timedelta(minutes=10))
