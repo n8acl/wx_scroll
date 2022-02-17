@@ -1,5 +1,5 @@
 # Weather Scroller
-Weather Data Scoller for the Raspberry Pi Sense-Hat
+Weather Data Scroller for the Raspberry Pi Sense-Hat
 
 ---
 # Description
