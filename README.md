@@ -96,7 +96,7 @@ python3 wx_scroll.py
 If something ever happens, you can reconnect to the session by typing:
 
 ```bash
-screen -R hammy-discord-bot
+screen -R wx_scroll
 ```
 
 And see why it errored or quit. This is useful if you need to contact me for support. That also allows you to restart the script.
